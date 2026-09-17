@@ -18,7 +18,7 @@ Each lab covers a specific topic related to compiler construction, including:
 ```text
 CSE420_Compiler-Design_Summer26/
 │
-├── Lab-01/
+├── Lab-01
 ├── Lab-02/
 ├── Lab-03/
 ├── Lab-04/
@@ -31,7 +31,7 @@ Each lab folder contains the source code, exercises, and other files related to 
 
 The purpose of this repository is to keep all **CSE420 Compiler Design laboratory works** organized in one place and to demonstrate the implementation and application of fundamental compiler design concepts.
 
-## 🛠️ Technologies
+##  Technologies
 
 * C / C++
 * Lex / Flex
