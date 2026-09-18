@@ -19,9 +19,9 @@ Each lab covers a specific topic related to compiler construction, including:
 CSE420_Compiler-Design_Summer26/
 │
 ├── Lab-01
-├── Lab-02/
-├── Lab-03/
-├── Lab-04/
+├── Lab-02
+├── Lab-03
+├── Lab-04
 └── README.md
 ```
 
